@@ -1,15 +1,67 @@
-# Booksy -> team project for GoIT
+# Online Bookstore Website
 
-A one-page site for buying books and having fun.<br/><br/>
+**Team Project (10 Developers)**
 
-![Booksy sample](./assets/booksy-sample.jpg)<br/><br/>
+- **Volodymyr Buhlak**
+- **Liubov Zaporozhets**
+- **Alla Yevlampieva**
+- **Anhelina Pushkash**
+- **Oleh Kovtoniuk**
+- **Viktoria Romanchenko**
+- **Akim Duvanov**
+- **Anna Orfiniak**
+- **Borys Savenok**
+- **Iryna Kozh**
 
-Welcome to Booksy – your cozy corner for handpicked reads.
+---
 
-_We believe books are more than just stories — they’re companions, doorways, and
-memories. Whether you’re chasing adventures or quiet moments, we’re here to help
-you find your next favorite book._<br/><br/>
+## 📌 Overview
 
-## API Books 1.0.0
+This is a **one-page online bookstore website** designed to browse, explore, and
+purchase books easily.
+The project uses **npm for JS build** and integrates several useful libraries
+for a smooth user experience.
+It follows a **mobile-first approach**, ensuring usability on **mobile, tablet,
+and desktop** devices.
 
-https://books-backend.p.goit.global/api-docs/<br/><br/>
+---
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
+
+---
+
+## 📚 Libraries & Tools
+
+- **accordion-js** — for expandable FAQ sections
+- **axios** — for API requests
+- **izitoast** — notifications
+- **modern-normalize** — CSS normalization
+- **swiper** — responsive sliders and carousels
+
+---
+
+## 🌐 Tools & Platforms
+
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+---
+
+## 🎯 Key Features
+
+- **Book Catalog** — browse and search books
+- **Interactive Sliders** — highlight featured books (Swiper)
+- **Accordion Sections** — FAQs and details
+- **Notifications** — user feedback using iziToast
+- **Responsive Design**
+
+---
+
+## 📸 Screenshot
+
+![Project Screenshot](./src/img/booksy.png)
